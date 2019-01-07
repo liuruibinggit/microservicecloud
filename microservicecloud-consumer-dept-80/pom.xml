@@ -10,7 +10,6 @@
 
 	<artifactId>microservicecloud-consumer-dept-80</artifactId>
 	<description>部门微服务消费者</description>
-
 	<dependencies>
 		<dependency><!-- 自己定义的api -->
 			<groupId>com.atguigu.springcloud</groupId>
