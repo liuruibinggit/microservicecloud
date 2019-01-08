@@ -4,7 +4,7 @@ server:
 feign: 
   hystrix: 
     enabled: true
-
+ #配置所有的urekaserver
 eureka:
   client:
     register-with-eureka: false
